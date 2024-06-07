@@ -1,0 +1,17 @@
+nav ul{
+    display: flex;
+    gap: 40px;
+    background-color: rgb(255, 190, 104);
+    padding: 23px;
+}
+li{
+    list-style: none;
+    font-size: 20px;
+}
+input{
+    padding: 8px 12px;
+    position: absolute;
+    right: 4%;
+    top: 3%;
+    border-radius: 10px;
+}
